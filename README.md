@@ -4,17 +4,18 @@
 
 **AI 自动化开发工程师 · 智能体工作流定制**
 
-*用 AI 重新定义工作方式*
+*微信 ｜Cpthimeself*
 
-<br>
+<br/>
 
 [![CSDN](https://img.shields.io/badge/CSDN-%23FC5531?style=for-the-badge&logo=csdn&logoColor=white)](https://cpt1024.blog.csdn.net)
 [![Bilibili](https://img.shields.io/badge/Bilibili-%2300A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/YOUR_UID)
 [![小红书](https://img.shields.io/badge/%E5%B0%8F%E7%BA%A2%E4%B9%A6-%23FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/YOUR_ID)
-[![抖音](https://img.shields.io/badge/%E6%8A%96%E9%9F%B3-%23000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.douyin.com/user/YOUR_ID)
-[![WeChat](https://img.shields.io/badge/WeChat%20Cpthimeself-%2307C160?style=for-the-badge&logo=wechat&logoColor=white)](https://weixin.qq.com)
+[![抖音](https://img.shields.io/badge/%E6%8A%96%E9%9F%B3-%23010101?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.douyin.com/user/YOUR_ID)
 
 </div>
+
+<br/>
 
 ---
 
