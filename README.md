@@ -21,12 +21,7 @@
 
 > 专注于 AI 自动化开发 & 智能体工作流定制，帮助企业和个人从零搭建 AI 驱动的高效工作流程。
 
-| 属性 | 内容 |
-|------|------|
-| 🧠 性格 | ENTJ — 硬逆、高效、目标驱动 |
-| ⚡ 状态 | 总处于构建和优化中 |
-| 🌱 理念 | 用最少的汉威做最多的事 |
-| 🔥 状态 | 研究 AI 工具中，不断迭代 |
+> **欢迎咨询 AI 工作流定制 / 自动化项目 💬 微信：`Cpthimeself`**
 
 ## 🛠 技术栈
 
@@ -35,9 +30,3 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Coze](https://img.shields.io/badge/Coze-5C5CFF?style=flat-square&logoColor=white)
 ![Dify](https://img.shields.io/badge/Dify-000000?style=flat-square&logoColor=white)
-
-## 📬 联系我
-
-**💬 微信：`Cpthimeself`**
-
-> 欢迎咨询 AI 工作流定制 / 自动化项目合作
