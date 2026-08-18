@@ -1,7 +1,5 @@
 <div align="center">
-  <br/>
-**AlphaFDE 创始人**
-<br/>
+
 
 [![CSDN](https://img.shields.io/badge/CSDN-%23FC5531?style=for-the-badge&logo=csdn&logoColor=white)](https://cpt1024.blog.csdn.net)
 [![Bilibili](https://img.shields.io/badge/Bilibili-%2300A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/YOUR_UID)
@@ -13,6 +11,7 @@
 ---
 
 ## 🚀 关于我
+AlphaFDE创始人
 
 专注于 AI 自动化开发与智能体工作流定制，帮助企业和个人从零搭建 AI 驱动的高效工作流程 和 ANC框架。
 
