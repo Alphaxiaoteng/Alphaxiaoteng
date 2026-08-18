@@ -2,7 +2,7 @@
 
 # Alpha Intelligence
 
-**AI 自动化开发工程师 · 智能体工作流定制**
+**AlphaFDE 创始人**
 
 *微信 ｜ Cpthimeself*
 
