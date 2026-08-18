@@ -3,9 +3,6 @@
 # Alpha Intelligence
 
 **AlphaFDE 创始人**
-
-*微信 ｜ Cpthimeself*
-
 <br/>
 
 [![CSDN](https://img.shields.io/badge/CSDN-%23FC5531?style=for-the-badge&logo=csdn&logoColor=white)](https://cpt1024.blog.csdn.net)
