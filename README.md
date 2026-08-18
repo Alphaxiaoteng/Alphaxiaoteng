@@ -1,7 +1,4 @@
 <div align="center">
-
-# Alpha Intelligence
-
 **AlphaFDE 创始人**
 <br/>
 
