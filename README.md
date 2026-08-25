@@ -1,8 +1,8 @@
 <div align="center">
 
-<!-- Luxury Editorial Header Banner (Clickable -> WorkShow Portfolio) -->
-<a href="https://workshow.pages.dev" target="_blank">
-  <img src="https://raw.githubusercontent.com/Alphaxiaoteng/Alphaxiaoteng/main/assets/header.svg" width="100%" alt="ALPHAFDE Banner"/>
+<!-- Luxury Editorial Header Banner (Clickable -> alphafde.cn) -->
+<a href="https://alphafde.cn" target="_blank">
+  <img src="https://raw.githubusercontent.com/Alphaxiaoteng/Alphaxiaoteng/main/assets/header.svg" width="100%" alt="ALPHA FDE Banner"/>
 </a>
 
 <!-- High-Aesthetic Cinzel Monochrome Typing Marquee -->
