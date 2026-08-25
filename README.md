@@ -10,13 +10,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=AlphaFDE+%7C+Forward+Deployed+Engineer+Delivery;Building+Autonomous+AI+Agents+That+Drive+Real+ROI;Local-First+Architecture+%2B+MCP+Protocol+Engineering;5%2C400h%2B+AI+Pair+Programming+%C2%B7+42.3B%2B+Tokens;Talk+is+cheap%2C+show+me+the+Agents." alt="Typing SVG Marquee"/>
 </p>
 
-<!-- Social & Platform Matrix Badges -->
+<!-- Social & Multi-Platform Matrix Badges (Including WeChat) -->
 <p align="center">
   <a href="https://alphafde.cn" target="_blank"><img src="https://img.shields.io/badge/官方网站-alphafde.cn-58A6FF?style=flat-square&logo=googlechrome&logoColor=white"/></a>
   <a href="https://cpt1024.blog.csdn.net" target="_blank"><img src="https://img.shields.io/badge/CSDN-阿尔法小腾-FC5531?style=flat-square&logo=csdn&logoColor=white"/></a>
   <a href="https://www.xiaohongshu.com" target="_blank"><img src="https://img.shields.io/badge/小红书-阿尔法小腾-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white"/></a>
   <a href="https://www.douyin.com" target="_blank"><img src="https://img.shields.io/badge/抖音-阿尔法小腾-010101?style=flat-square&logo=tiktok&logoColor=white"/></a>
   <a href="https://space.bilibili.com" target="_blank"><img src="https://img.shields.io/badge/Bilibili-阿尔法小腾-00A1D6?style=flat-square&logo=bilibili&logoColor=white"/></a>
+  <a href="https://github.com/Alphaxiaoteng"><img src="https://img.shields.io/badge/微信咨询-Cpthimeself-07C160?style=flat-square&logo=wechat&logoColor=white"/></a>
 </p>
 
 <!-- Pixel Art Animated Ambient Scene -->
@@ -58,27 +59,9 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 </p>
 
-<!-- Focused Skill Icons Matrix -->
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,sqlite,redis,git,github,linux,vscode,ts" />
-</a>
+<br/>
 
-</div>
-
----
-
-### Contact & Collaboration
-
-<div align="center">
-
-<!-- Connect Links -->
-<p align="center">
-  <a href="https://github.com/Alphaxiaoteng"><img src="https://img.shields.io/badge/微信咨询-Cpthimeself-07C160?style=flat-square&logo=wechat&logoColor=white"/></a>
-  <a href="https://alphafde.cn" target="_blank"><img src="https://img.shields.io/badge/官方网站-alphafde.cn-58A6FF?style=flat-square&logo=googlechrome&logoColor=white"/></a>
-  <a href="https://cpt1024.blog.csdn.net" target="_blank"><img src="https://img.shields.io/badge/CSDN_专栏-cpt1024-FC5531?style=flat-square&logo=csdn&logoColor=white"/></a>
-</p>
-
-<!-- Dynamic Bottom Marquee Animation Bar (Clickable -> WorkShow Portfolio) -->
+<!-- Dynamic Bottom Marquee Bar (Clickable -> WorkShow Portfolio) -->
 <a href="https://workshow.pages.dev" target="_blank">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=500&lines=>>>+ALPHAFDE+%C2%B7+CLICK+TO+EXPLORE+WORKSHOW+PORTFOLIO+<<<" alt="Clickable Footer Marquee"/>
 </a>
