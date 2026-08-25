@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Luxury Editorial Header Banner (Clickable -> alphafde.cn) -->
-<a href="https://alphafde.cn" target="_blank">
+<!-- Luxury Editorial Header Banner (Clickable -> WorkShow Portfolio: blog.alphaintelligence.ltd) -->
+<a href="https://blog.alphaintelligence.ltd/" target="_blank">
   <img src="https://raw.githubusercontent.com/Alphaxiaoteng/Alphaxiaoteng/main/assets/header.svg" width="100%" alt="ALPHA FDE Banner"/>
 </a>
 
@@ -10,9 +10,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=15&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=650&lines=AlphaFDE+%7C+Forward+Deployed+Engineer+Delivery;Building+Autonomous+AI+Agents+That+Drive+Real+ROI;Local-First+Architecture+%2B+MCP+Protocol+Engineering;5%2C400h%2B+AI+Pair+Programming+%C2%B7+42.3B%2B+Tokens;Talk+is+cheap%2C+show+me+the+Agents." alt="Typing SVG Marquee"/>
 </p>
 
-<!-- Social & Multi-Platform Matrix Badges (Including WeChat) -->
+<!-- Social & Multi-Platform Matrix Badges (Including WeChat & WorkShow) -->
 <p align="center">
   <a href="https://alphafde.cn" target="_blank"><img src="https://img.shields.io/badge/官方网站-alphafde.cn-58A6FF?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://blog.alphaintelligence.ltd/" target="_blank"><img src="https://img.shields.io/badge/WorkShow-作品集-00F5D4?style=flat-square&logo=safari&logoColor=black"/></a>
   <a href="https://cpt1024.blog.csdn.net" target="_blank"><img src="https://img.shields.io/badge/CSDN-阿尔法小腾-FC5531?style=flat-square&logo=csdn&logoColor=white"/></a>
   <a href="https://www.xiaohongshu.com" target="_blank"><img src="https://img.shields.io/badge/小红书-阿尔法小腾-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white"/></a>
   <a href="https://www.douyin.com" target="_blank"><img src="https://img.shields.io/badge/抖音-阿尔法小腾-010101?style=flat-square&logo=tiktok&logoColor=white"/></a>
