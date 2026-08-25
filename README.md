@@ -11,13 +11,13 @@
   <img src="https://img.shields.io/badge/SCALE-42.3B+%20TOKENS-4361EE?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
-<!-- Social & Multi-Platform Matrix Badges -->
+<!-- Social & Chinese Platforms Matrix (with Chinese Account Names) -->
 <p align="center">
-  <a href="https://cpt1024.blog.csdn.net" target="_blank"><img src="https://img.shields.io/badge/CSDN-Tech%20Blog-FC5531?style=for-the-badge&logo=csdn&logoColor=white"/></a>
-  <a href="https://www.xiaohongshu.com" target="_blank"><img src="https://img.shields.io/badge/Xiaohongshu-Media%20Ops-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white"/></a>
-  <a href="https://www.douyin.com" target="_blank"><img src="https://img.shields.io/badge/Douyin-AI%20Video-010101?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
-  <a href="https://space.bilibili.com" target="_blank"><img src="https://img.shields.io/badge/Bilibili-Tech%20Channel-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white"/></a>
-  <a href="https://alphaintelligence.ltd" target="_blank"><img src="https://img.shields.io/badge/Official%20Site-alphaintelligence.ltd-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://cpt1024.blog.csdn.net" target="_blank"><img src="https://img.shields.io/badge/CSDN-阿尔法小腾-FC5531?style=for-the-badge&logo=csdn&logoColor=white"/></a>
+  <a href="https://www.xiaohongshu.com" target="_blank"><img src="https://img.shields.io/badge/小红书-阿尔法小腾-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white"/></a>
+  <a href="https://www.douyin.com" target="_blank"><img src="https://img.shields.io/badge/抖音-阿尔法小腾-010101?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+  <a href="https://space.bilibili.com" target="_blank"><img src="https://img.shields.io/badge/Bilibili-阿尔法小腾-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white"/></a>
+  <a href="https://alphaintelligence.ltd" target="_blank"><img src="https://img.shields.io/badge/官方网站-alphaintelligence.ltd-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </p>
 
 <!-- Pixel Art Animated Scene -->
@@ -69,9 +69,9 @@
 
 <div align="center">
 
-[![WeChat](https://img.shields.io/badge/WeChat-Cpthimeself-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://github.com/Alphaxiaoteng)
-[![CSDN Blog](https://img.shields.io/badge/CSDN_Blog-cpt1024-FC5531?style=for-the-badge&logo=csdn&logoColor=white)](https://cpt1024.blog.csdn.net)
-[![Portfolio](https://img.shields.io/badge/Website-alphaintelligence.ltd-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alphaintelligence.ltd)
+[![WeChat](https://img.shields.io/badge/微信咨询-Cpthimeself-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://github.com/Alphaxiaoteng)
+[![CSDN Blog](https://img.shields.io/badge/CSDN_专栏-cpt1024-FC5531?style=for-the-badge&logo=csdn&logoColor=white)](https://cpt1024.blog.csdn.net)
+[![Portfolio](https://img.shields.io/badge/官方网站-alphaintelligence.ltd-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alphaintelligence.ltd)
 
 <br/><br/>
 
