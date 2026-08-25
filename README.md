@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- Clickable Header Banner (Direct to WorkShow Portfolio) -->
+<!-- Monochrome Luxury Header Banner (Clickable -> WorkShow Portfolio) -->
 <a href="https://workshow.pages.dev" target="_blank">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,36&height=180&section=header&text=ALPHAFDE&fontSize=40&fontAlignY=36&fontColor=ffffff&desc=Forward%20Deployed%20Engineer%20%7C%20AI%20Agent%20Workflow%20Architect&descFontSize=15&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:18181b,100:000000&height=180&section=header&text=ALPHAFDE&fontSize=44&fontAlignY=36&fontColor=ffffff&desc=FORWARD%20DEPLOYED%20ENGINEER%20%7C%20AI%20AGENT%20ARCHITECT&descFontSize=14&descAlignY=60&descAlign=50" width="100%"/>
 </a>
 
-<!-- Dynamic Typing Marquee / Slogan Ticker (跑马灯) -->
+<!-- High-Aesthetic Space Grotesk Monochrome Typing Marquee -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=AlphaFDE+%7C+Forward+Deployed+Engineer+Delivery;Building+Autonomous+AI+Agents+That+Drive+Real+ROI;Local-First+Architecture+%2B+MCP+Protocol+Engineering;5%2C400h%2B+AI+Pair+Programming+%C2%B7+42.3B%2B+Tokens;Talk+is+cheap%2C+show+me+the+Agents." alt="Typing SVG Marquee"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=16&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=620&lines=AlphaFDE+%7C+Forward+Deployed+Engineer+Delivery;Building+Autonomous+AI+Agents+That+Drive+Real+ROI;Local-First+Architecture+%2B+MCP+Protocol+Engineering;5%2C400h%2B+AI+Pair+Programming+%C2%B7+42.3B%2B+Tokens;Talk+is+cheap%2C+show+me+the+Agents." alt="Typing SVG Marquee"/>
 </p>
 
 <!-- Social & Multi-Platform Matrix Badges (Including WeChat) -->
@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/LLM_Wiki-4B32C3?style=flat-square&logo=gitbook&logoColor=white"/>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dify.AI-000000?style=flat-square&logo=target&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MCP_Protocol-58A6FF?style=flat-square&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP%20Protocol-58A6FF?style=flat-square&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Promptfoo-6366F1?style=flat-square&logo=target&logoColor=white"/>
   <img src="https://img.shields.io/badge/ComfyUI-FF4081?style=flat-square&logo=probot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Remotion-0B84FF?style=flat-square&logo=react&logoColor=white"/>
