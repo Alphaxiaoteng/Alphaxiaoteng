@@ -59,11 +59,4 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 </p>
 
-<br/>
-
-<!-- Dynamic Bottom Marquee Bar (Clickable -> WorkShow Portfolio) -->
-<a href="https://workshow.pages.dev" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=500&lines=>>>+ALPHAFDE+%C2%B7+CLICK+TO+EXPLORE+WORKSHOW+PORTFOLIO+<<<" alt="Clickable Footer Marquee"/>
-</a>
-
 </div>
