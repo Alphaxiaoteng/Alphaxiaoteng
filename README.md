@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- Monochrome Luxury Header Banner (Clickable -> WorkShow Portfolio) -->
+<!-- Luxury Editorial Header Banner (Clickable -> WorkShow Portfolio) -->
 <a href="https://workshow.pages.dev" target="_blank">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:18181b,100:000000&height=180&section=header&text=ALPHAFDE&fontSize=44&fontAlignY=36&fontColor=ffffff&desc=FORWARD%20DEPLOYED%20ENGINEER%20%7C%20AI%20AGENT%20ARCHITECT&descFontSize=14&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Alphaxiaoteng/Alphaxiaoteng/main/assets/header.svg" width="100%" alt="ALPHAFDE Banner"/>
 </a>
 
-<!-- High-Aesthetic Space Grotesk Monochrome Typing Marquee -->
+<!-- High-Aesthetic Cinzel Monochrome Typing Marquee -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=16&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=620&lines=AlphaFDE+%7C+Forward+Deployed+Engineer+Delivery;Building+Autonomous+AI+Agents+That+Drive+Real+ROI;Local-First+Architecture+%2B+MCP+Protocol+Engineering;5%2C400h%2B+AI+Pair+Programming+%C2%B7+42.3B%2B+Tokens;Talk+is+cheap%2C+show+me+the+Agents." alt="Typing SVG Marquee"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=15&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=650&lines=AlphaFDE+%7C+Forward+Deployed+Engineer+Delivery;Building+Autonomous+AI+Agents+That+Drive+Real+ROI;Local-First+Architecture+%2B+MCP+Protocol+Engineering;5%2C400h%2B+AI+Pair+Programming+%C2%B7+42.3B%2B+Tokens;Talk+is+cheap%2C+show+me+the+Agents." alt="Typing SVG Marquee"/>
 </p>
 
 <!-- Social & Multi-Platform Matrix Badges (Including WeChat) -->

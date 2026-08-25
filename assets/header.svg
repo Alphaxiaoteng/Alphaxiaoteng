@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%" height="100%">
+  <defs>
+    <!-- Top-Tier Google Fonts: Cinzel & Space Grotesk -->
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;900&amp;family=Space+Grotesk:wght@400;500;700&amp;display=swap');
+
+      .title {
+        font-family: 'Cinzel', serif, -apple-system;
+        font-weight: 900;
+        font-size: 64px;
+        fill: #FFFFFF;
+        letter-spacing: 0.32em;
+        text-anchor: middle;
+      }
+      .subtitle {
+        font-family: 'Space Grotesk', -apple-system, sans-serif;
+        font-weight: 500;
+        font-size: 15px;
+        fill: #A1A1AA;
+        letter-spacing: 0.42em;
+        text-anchor: middle;
+        text-transform: uppercase;
+      }
+      .tagline {
+        font-family: 'Space Grotesk', -apple-system, sans-serif;
+        font-weight: 400;
+        font-size: 12px;
+        fill: #71717A;
+        letter-spacing: 0.28em;
+        text-anchor: middle;
+      }
+      .hairline {
+        stroke: #27272A;
+        stroke-width: 1;
+      }
+      .accent-dot {
+        fill: #58A6FF;
+      }
+    </style>
+
+    <!-- Luxury Radial & Linear Gradients -->
+    <radialGradient id="ambientGlow" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#27272A" stop-opacity="0.6"/>
+      <stop offset="60%" stop-color="#0E0E11" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#08080A" stop-opacity="1"/>
+    </radialGradient>
+
+    <linearGradient id="silverSheen" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#A1A1AA"/>
+      <stop offset="50%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#A1A1AA"/>
+    </linearGradient>
+
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#27272A" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#52525B" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#27272A" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Canvas Background -->
+  <rect width="1200" height="320" rx="12" fill="url(#ambientGlow)"/>
+
+  <!-- Subtle Minimalist Grid Hairlines -->
+  <line x1="100" y1="50" x2="1100" y2="50" stroke="url(#borderGrad)" stroke-width="1"/>
+  <line x1="100" y1="270" x2="1100" y2="270" stroke="url(#borderGrad)" stroke-width="1"/>
+  
+  <!-- Architectural Corner Crosshairs -->
+  <path d="M 90 40 L 90 60 M 80 50 L 100 50" stroke="#3F3F46" stroke-width="1"/>
+  <path d="M 1110 40 L 1110 60 M 1100 50 L 1120 50" stroke="#3F3F46" stroke-width="1"/>
+  <path d="M 90 260 L 90 280 M 80 270 L 100 270" stroke="#3F3F46" stroke-width="1"/>
+  <path d="M 1110 260 L 1110 280 M 1100 270 L 1120 270" stroke="#3F3F46" stroke-width="1"/>
+
+  <!-- Top Micro Tag -->
+  <text x="600" y="88" class="tagline">AI AGENT SYSTEMS &amp; ENTERPRISE FDE ARCHITECTURE</text>
+
+  <!-- Main Luxury Title -->
+  <text x="600" y="168" class="title">ALPHAFDE</text>
+
+  <!-- Subtitle -->
+  <text x="600" y="218" class="subtitle">FORWARD DEPLOYED ENGINEER · AI AGENT ARCHITECT</text>
+
+  <!-- Subtle Accent Bottom Indicator -->
+  <circle cx="585" cy="246" r="2.5" fill="#3F3F46"/>
+  <circle cx="600" cy="246" r="3" fill="#58A6FF"/>
+  <circle cx="615" cy="246" r="2.5" fill="#3F3F46"/>
+</svg>
