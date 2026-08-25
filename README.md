@@ -5,7 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,36&height=210&section=header&text=ALPHAFDE&fontSize=42&fontAlignY=36&fontColor=ffffff&desc=Forward%20Deployed%20Engineer%20%7C%20AI%20Agent%20Workflow%20Architect&descFontSize=16&descAlignY=58&descAlign=50" width="100%"/>
 </a>
 
-<!-- Status Pills -->
+<!-- Status Pills (Flat Square) -->
 <p align="center">
   <img src="https://img.shields.io/badge/FOUNDER-ALPHAFDE.CN-00F5D4?style=flat-square&logo=target&logoColor=black"/>
   <img src="https://img.shields.io/badge/ROLE-AI%20AGENT%20DEVELOPER-FF6B6B?style=flat-square&logo=python&logoColor=white"/>
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/SCALE-42.3B+%20TOKENS-4361EE?style=flat-square&logo=openai&logoColor=white"/>
 </p>
 
-<!-- Social & Platform Matrix Badges -->
+<!-- Social & Platform Matrix Badges (Flat Square) -->
 <p align="center">
   <a href="https://alphafde.cn" target="_blank"><img src="https://img.shields.io/badge/官方网站-alphafde.cn-58A6FF?style=flat-square&logo=googlechrome&logoColor=white"/></a>
   <a href="https://cpt1024.blog.csdn.net" target="_blank"><img src="https://img.shields.io/badge/CSDN-阿尔法小腾-FC5531?style=flat-square&logo=csdn&logoColor=white"/></a>
@@ -75,9 +75,9 @@
 
 <br/><br/>
 
-<!-- Minimalist Footer Banner (Clickable -> WorkShow Portfolio) -->
+<!-- Minimalist Footer Wave Banner (Clickable -> WorkShow Portfolio) -->
 <a href="https://workshow.pages.dev" target="_blank">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,24,36&height=50&section=footer&text=ALPHAFDE%20%C2%B7%20AI%20AGENT%20DELIVERY%20%26%20SOLUTIONS&fontSize=15&fontAlignY=50&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,36&height=120&section=footer&text=ALPHAFDE%20%7C%20AI%20AGENT%20DELIVERY%20%26%20SOLUTIONS&fontSize=18&fontAlignY=65&fontColor=ffffff" width="100%"/>
 </a>
 
 </div>
