@@ -8,8 +8,8 @@
 <!-- Minimalist Status Pills -->
 <p align="center">
   <img src="https://img.shields.io/badge/FOUNDER-ALPHAFDE.CN-00F5D4?style=for-the-badge&logo=target&logoColor=black"/>
-  <img src="https://img.shields.io/badge/ROLE-FORWARD%20DEPLOYED%20ENGINEER-FF6B6B?style=for-the-badge&logo=probot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EXP-5400h+%20AI%20CODING-7B2CBF?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ROLE-AI%20AGENT%20DEVELOPER-FF6B6B?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EXP-5400h+%20AI%20PAIRING-7B2CBF?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/SCALE-42.3B+%20TOKENS-4361EE?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
@@ -43,25 +43,26 @@
 
 ---
 
-### 🛠️ 技术栈与架构能力 (Tech Stack & Arsenal)
+### 🧠 AI 核心技术栈 (AI & Python Tech Stack)
 
 <div align="center">
 
-<!-- AI & Agent Ecosystem Badges -->
+<!-- AI Core Ecosystem Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python%203.11+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude%203.7-D97706?style=for-the-badge&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Coze_%E6%89%A3%E5%AD%90-5C5CFF?style=for-the-badge&logo=probot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dify.AI-000000?style=for-the-badge&logo=target&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/MCP_Protocol-58A6FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Remotion-0B84FF?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG_%26_VectorDB-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
-<!-- Dynamic Pixel Skill Icons -->
+<!-- Focused Core Developer Icons (No Docker / Minimal Frontend) -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,python,go,nodejs,fastapi,docker,cloudflare,tailwind,git,github,linux,vite,vscode,postman,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,sqlite,redis,git,github,linux,vscode,ts" />
 </a>
 
 </div>
