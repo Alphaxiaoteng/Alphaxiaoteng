@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 960" width="100%" height="100%">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Italiana&amp;family=Syne:wght@800&amp;family=Orbitron:wght@900&amp;family=Cormorant+Garamond:ital,wght@1,700&amp;family=Righteous&amp;family=Space+Grotesk:wght@600;700&amp;family=Cinzel:wght@900&amp;display=swap');
+
+      .bg { fill: #09090B; }
+      .card-bg { fill: #121216; stroke: #27272A; stroke-width: 1; rx: 10px; }
+      .num-tag { font-family: 'Space Grotesk', sans-serif; font-size: 14px; font-weight: 700; fill: #00F5D4; letter-spacing: 0.15em; }
+      .desc-tag { font-family: 'Space Grotesk', -apple-system, sans-serif; font-size: 13px; font-weight: 500; fill: #71717A; }
+
+      /* Font Options */
+      .font-1 { font-family: 'Italiana', serif; font-size: 46px; fill: url(#chrome); letter-spacing: 0.22em; font-weight: 400; }
+      .font-2 { font-family: 'Syne', sans-serif; font-size: 42px; fill: url(#chrome); letter-spacing: 0.24em; font-weight: 800; }
+      .font-3 { font-family: 'Orbitron', sans-serif; font-size: 38px; fill: url(#chrome); letter-spacing: 0.28em; font-weight: 900; }
+      .font-4 { font-family: 'Cormorant Garamond', serif; font-size: 50px; font-style: italic; fill: url(#chrome); letter-spacing: 0.18em; font-weight: 700; }
+      .font-5 { font-family: 'Righteous', cursive; font-size: 44px; fill: url(#chrome); letter-spacing: 0.22em; font-weight: 400; }
+      .font-6 { font-family: 'Cinzel', serif; font-size: 42px; fill: url(#chrome); letter-spacing: 0.32em; font-weight: 900; }
+    </style>
+
+    <linearGradient id="chrome" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="50%" stop-color="#E4E4E7"/>
+      <stop offset="100%" stop-color="#71717A"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="960" class="bg"/>
+
+  <!-- Header -->
+  <text x="600" y="55" text-anchor="middle" font-family="'Space Grotesk', sans-serif" font-size="20" font-weight="700" fill="#FFFFFF" letter-spacing="0.25em">ALPHA FDE · ARTISTIC TYPOGRAPHY SHOWCASE</text>
+  <text x="600" y="80" text-anchor="middle" font-family="'Space Grotesk', sans-serif" font-size="13" font-weight="400" fill="#71717A" letter-spacing="0.15em">请选择你最喜欢的艺术字体编号（1 ~ 6）</text>
+
+  <!-- Option 1: Italiana -->
+  <g transform="translate(60, 110)">
+    <rect width="1080" height="115" class="card-bg"/>
+    <text x="30" y="38" class="num-tag">#1 · ITALIANA</text>
+    <text x="210" y="38" class="desc-tag">高奢杂志与法式沙龙艺术衬线体（极简典雅、纤细流线）</text>
+    <text x="540" y="88" text-anchor="middle" class="font-1">ALPHA FDE</text>
+  </g>
+
+  <!-- Option 2: Syne -->
+  <g transform="translate(60, 245)">
+    <rect width="1080" height="115" class="card-bg"/>
+    <text x="30" y="38" class="num-tag">#2 · SYNE (ExtraBold)</text>
+    <text x="250" y="38" class="desc-tag">法国先锋创意设计体（现代张力、超大字重视觉冲击）</text>
+    <text x="540" y="88" text-anchor="middle" class="font-2">ALPHA FDE</text>
+  </g>
+
+  <!-- Option 3: Orbitron -->
+  <g transform="translate(60, 380)">
+    <rect width="1080" height="115" class="card-bg"/>
+    <text x="30" y="38" class="num-tag">#3 · ORBITRON</text>
+    <text x="220" y="38" class="desc-tag">赛博未来与硬核工业几何体（科技先锋、几何硬角）</text>
+    <text x="540" y="88" text-anchor="middle" class="font-3">ALPHA FDE</text>
+  </g>
+
+  <!-- Option 4: Cormorant Garamond -->
+  <g transform="translate(60, 515)">
+    <rect width="1080" height="115" class="card-bg"/>
+    <text x="30" y="38" class="num-tag">#4 · CORMORANT (Italic)</text>
+    <text x="300" y="38" class="desc-tag">古典文学与浪漫主义书法衬线（手写雕琢美感、贵族质感）</text>
+    <text x="540" y="88" text-anchor="middle" class="font-4">Alpha FDE</text>
+  </g>
+
+  <!-- Option 5: Righteous -->
+  <g transform="translate(60, 650)">
+    <rect width="1080" height="115" class="card-bg"/>
+    <text x="30" y="38" class="num-tag">#5 · RIGHTEOUS</text>
+    <text x="230" y="38" class="desc-tag">复古新浪潮与流体艺术体（80s 电子流体、独特曲线）</text>
+    <text x="540" y="88" text-anchor="middle" class="font-5">ALPHA FDE</text>
+  </g>
+
+  <!-- Option 6: Cinzel Decorative -->
+  <g transform="translate(60, 785)">
+    <rect width="1080" height="115" class="card-bg"/>
+    <text x="30" y="38" class="num-tag">#6 · CINZEL (900)</text>
+    <text x="230" y="38" class="desc-tag">罗马纪念碑石刻与古典史诗衬线体（庄重深邃、超宽间距）</text>
+    <text x="540" y="88" text-anchor="middle" class="font-6">ALPHA FDE</text>
+  </g>
+</svg>
