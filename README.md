@@ -1,7 +1,9 @@
 <div align="center">
 
-<!-- Minimalist Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,36&height=210&section=header&text=ALPHAFDE&fontSize=42&fontAlignY=36&fontColor=ffffff&desc=Forward%20Deployed%20Engineer%20%7C%20AI%20Agent%20Workflow%20Architect&descFontSize=16&descAlignY=58&descAlign=50" width="100%"/>
+<!-- Minimalist Header Banner (Clickable -> WorkShow Portfolio) -->
+<a href="https://workshow.pages.dev" target="_blank">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,36&height=210&section=header&text=ALPHAFDE&fontSize=42&fontAlignY=36&fontColor=ffffff&desc=Forward%20Deployed%20Engineer%20%7C%20AI%20Agent%20Workflow%20Architect&descFontSize=16&descAlignY=58&descAlign=50" width="100%"/>
+</a>
 
 <!-- Minimalist Status Pills -->
 <p align="center">
@@ -76,6 +78,9 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,24,36&height=50&section=footer&text=ALPHAFDE%20%C2%B7%20AI%20AGENT%20DELIVERY%20%26%20SOLUTIONS&fontSize=15&fontAlignY=50&fontColor=ffffff" width="100%"/>
+<!-- Minimalist Footer Banner (Clickable -> WorkShow Portfolio) -->
+<a href="https://workshow.pages.dev" target="_blank">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,24,36&height=50&section=footer&text=ALPHAFDE%20%C2%B7%20AI%20AGENT%20DELIVERY%20%26%20SOLUTIONS&fontSize=15&fontAlignY=50&fontColor=ffffff" width="100%"/>
+</a>
 
 </div>
