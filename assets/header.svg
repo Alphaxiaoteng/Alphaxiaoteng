@@ -1,17 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="100%" height="100%">
   <defs>
-    <!-- Avant-Garde & High-Fashion Typography -->
+    <!-- Top-Tier Google Fonts: Cormorant Garamond & Space Grotesk -->
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@800;900&amp;family=Italiana&amp;family=Space+Grotesk:wght@400;500;700&amp;display=swap');
+      @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,600;1,700&amp;family=Space+Grotesk:wght@400;500;700&amp;display=swap');
 
-      .title-art {
-        font-family: 'Unbounded', 'Italiana', -apple-system, sans-serif;
-        font-weight: 900;
-        font-size: 58px;
+      .title-cormorant {
+        font-family: 'Cormorant Garamond', Georgia, serif;
+        font-style: italic;
+        font-weight: 700;
+        font-size: 68px;
         fill: url(#chromeGradient);
-        letter-spacing: 0.26em;
+        letter-spacing: 0.16em;
         text-anchor: middle;
-        filter: drop-shadow(0 0 25px rgba(255, 255, 255, 0.15));
+        filter: drop-shadow(0 0 20px rgba(255, 255, 255, 0.18));
       }
       .subtitle {
         font-family: 'Space Grotesk', -apple-system, sans-serif;
@@ -71,9 +72,9 @@
   <!-- Top Micro Tag -->
   <text x="600" y="88" class="tagline">/// ENTERPRISE AI AGENTS &amp; FDE ARCHITECTURE</text>
 
-  <!-- Title -->
-  <text x="600" y="168" class="title-art">ALPHA FDE</text>
+  <!-- Option 4: Cormorant Garamond Italic Luxury Title -->
+  <text x="600" y="172" class="title-cormorant">Alpha FDE</text>
 
   <!-- Editorial Subtitle -->
-  <text x="600" y="215" class="subtitle">FORWARD DEPLOYED ENGINEER · AI AGENT ARCHITECT</text>
+  <text x="600" y="218" class="subtitle">FORWARD DEPLOYED ENGINEER · AI AGENT ARCHITECT</text>
 </svg>
