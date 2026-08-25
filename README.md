@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- Pixel Wave Header Banner -->
+<!-- Minimalist Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,36&height=210&section=header&text=ALPHA%20INTELLIGENCE&fontSize=42&fontAlignY=36&fontColor=ffffff&desc=AI%20Agent%20Architect%20%7C%20Fullstack%20FDE%20%7C%20Local-First%20Builder&descFontSize=16&descAlignY=58&descAlign=50" width="100%"/>
 
-<!-- Professional Focus Badges -->
+<!-- Minimalist Status Pills -->
 <p align="center">
   <img src="https://img.shields.io/badge/ROLE-AI%20AGENT%20ARCHITECT-00F5D4?style=for-the-badge&logo=probot&logoColor=black"/>
   <img src="https://img.shields.io/badge/FOUNDER-ALPHAFDE-FF6B6B?style=for-the-badge&logo=target&logoColor=white"/>
@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/SCALE-42.3B+%20TOKENS-4361EE?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
-<!-- Social & Chinese Platforms Matrix (with Chinese Account Names) -->
+<!-- Social & Platform Matrix Badges -->
 <p align="center">
   <a href="https://cpt1024.blog.csdn.net" target="_blank"><img src="https://img.shields.io/badge/CSDN-阿尔法小腾-FC5531?style=for-the-badge&logo=csdn&logoColor=white"/></a>
   <a href="https://www.xiaohongshu.com" target="_blank"><img src="https://img.shields.io/badge/小红书-阿尔法小腾-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white"/></a>
@@ -20,27 +20,27 @@
   <a href="https://alphaintelligence.ltd" target="_blank"><img src="https://img.shields.io/badge/官方网站-alphaintelligence.ltd-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </p>
 
-<!-- Pixel Art Animated Scene -->
+<!-- Pixel Art Animated Hero -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Pixel Art Tech World"/>
 
 </div>
 
 ---
 
-### 🚀 Open Source & Featured Projects
+### 🌟 参与开源与精选项目 (Open Source & Featured Workflows)
 
 <div align="center">
 
-| Project | Role / Scope | Overview | Repository |
+| 项目 (Project) | 类别 (Category) | 核心说明 (Overview) | 传送门 (Repository) |
 | :--- | :--- | :--- | :---: |
-| 🎬 **OpenChatCut** | `Core Contributor`<br>`AI Video Editor` | Local-first conversational AI video editing engine supporting MCP protocols, Remotion timeline rendering, and natural language rough-cut pipelines. | [![GitHub](https://img.shields.io/badge/GitHub-0xsline%2FOpenChatCut-181717?style=flat-square&logo=github)](https://github.com/0xsline/OpenChatCut) |
-| 📋 **Maintainer Brief** | `Author`<br>`DevTools / Workflow` | Evidence-first pull request decision briefs and verification harnesses for open-source maintainers. | [![GitHub](https://img.shields.io/badge/GitHub-Alphaxiaoteng%2Fmaintainer--brief-181717?style=flat-square&logo=github)](https://github.com/Alphaxiaoteng/maintainer-brief) |
+| 🎬 **OpenChatCut** | `参与开源项目`<br>`AI Video Editor` | 本地优先的对话式 AI 视频剪辑引擎，基于大模型与 MCP 协议实现自然语言粗剪、动态模板注入与 Remotion 时间轴渲染。 | [![GitHub Stars](https://img.shields.io/badge/Open_Source-0xsline%2FOpenChatCut-181717?style=flat-square&logo=github)](https://github.com/0xsline/OpenChatCut) |
+| ⚡ **Coze Workflows** | `生产级 Agent`<br>`Automation` | 深度集成 Coze / 扣子智能体开发，上线多条覆盖数据监控、内容提取、爆款生成与多模态自动化闭环工作流。 | [![Coze Repo](https://img.shields.io/badge/Workflows-Coze__workFlow-5C5CFF?style=flat-square&logo=probot&logoColor=white)](https://github.com/Alphaxiaoteng/Coze_workFlow) |
 
 </div>
 
 ---
 
-### 🛠️ Tech Stack & Architecture
+### 🛠️ 技术栈与架构能力 (Tech Stack & Arsenal)
 
 <div align="center">
 
@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Coze-5C5CFF?style=for-the-badge&logo=probot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Coze_%E6%89%A3%E5%AD%90-5C5CFF?style=for-the-badge&logo=probot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dify.AI-000000?style=for-the-badge&logo=target&logoColor=white"/>
   <img src="https://img.shields.io/badge/MCP_Protocol-58A6FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Remotion-0B84FF?style=for-the-badge&logo=react&logoColor=white"/>
@@ -65,7 +65,7 @@
 
 ---
 
-### 📮 Connect & Collaborate
+### 📮 交流与商务合作 (Connect & Collaborate)
 
 <div align="center">
 
