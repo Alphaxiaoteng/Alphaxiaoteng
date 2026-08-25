@@ -69,15 +69,10 @@
 
 <div align="center">
 
-[![WeChat](https://img.shields.io/badge/微信咨询-Cpthimeself-07C160?style=flat-square&logo=wechat&logoColor=white)](https://github.com/Alphaxiaoteng)
-[![Official Site](https://img.shields.io/badge/官方网站-alphafde.cn-58A6FF?style=flat-square&logo=googlechrome&logoColor=white)](https://alphafde.cn)
-[![CSDN Blog](https://img.shields.io/badge/CSDN_专栏-cpt1024-FC5531?style=flat-square&logo=csdn&logoColor=white)](https://cpt1024.blog.csdn.net)
-
-<br/><br/>
-
-<!-- Minimalist Footer Wave Banner (Clickable -> WorkShow Portfolio) -->
-<a href="https://workshow.pages.dev" target="_blank">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,36&height=120&section=footer&text=ALPHAFDE%20%7C%20AI%20AGENT%20DELIVERY%20%26%20SOLUTIONS&fontSize=18&fontAlignY=65&fontColor=ffffff" width="100%"/>
-</a>
+<p align="center">
+  <a href="https://github.com/Alphaxiaoteng"><img src="https://img.shields.io/badge/微信咨询-Cpthimeself-07C160?style=flat-square&logo=wechat&logoColor=white"/></a>
+  <a href="https://alphafde.cn" target="_blank"><img src="https://img.shields.io/badge/官方网站-alphafde.cn-58A6FF?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://cpt1024.blog.csdn.net" target="_blank"><img src="https://img.shields.io/badge/CSDN_专栏-cpt1024-FC5531?style=flat-square&logo=csdn&logoColor=white"/></a>
+</p>
 
 </div>
