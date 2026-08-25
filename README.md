@@ -18,11 +18,11 @@
 
 ### Projects & Open Source
 
-| Project | Category | Overview | Portal |
+| Project | Role / Status | Why & Focus (背景与解决问题) | Portal |
 | :--- | :--- | :--- | :---: |
-| **AlphaFDE** | `Flagship` | 企业级 AI 智能体数字化转型、FDE 驻场交付与商业工作流落地 | [**alphafde.cn**](https://alphafde.cn) |
-| **OpenChatCut** | `Open Source` | 对话式 AI 视频剪辑工具（Remotion + MCP 协议） | [**GitHub**](https://github.com/0xsline/OpenChatCut) |
-| **Coze Workflows** | `Production Agent` | 涵盖数据监控、信息提取与爆款生成的自动化闭环工作流 | [**Repo**](https://github.com/Alphaxiaoteng/Coze_workFlow) |
+| **AlphaFDE** | `主要项目`<br>`Flagship` | 解决企业大模型落地脱离业务的痛点，通过 FDE 驻场交付与 ANC 框架打通商业化智能体闭环。 | [**alphafde.cn**](https://alphafde.cn) |
+| **OpenChatCut** | `参与开源项目`<br>`Contributor` | 传统剪辑时间线繁琐，参与核心开发探索 LLM + MCP + Remotion 结合，实现“对话即剪辑”的 AI 视频工作流。 | [**GitHub**](https://github.com/0xsline/OpenChatCut) |
+| **Coze Workflows** | `生产级 Agent`<br>`Workflows` | 消除新媒体运营与电商业务中高频机械重复劳动，构建数据监控、爆款拆解与自动生成闭环。 | [**Repo**](https://github.com/Alphaxiaoteng/Coze_workFlow) |
 
 ### Tech Stack
 
