@@ -7,7 +7,7 @@
       .title {
         font-family: 'Cinzel', serif, -apple-system;
         font-weight: 900;
-        font-size: 64px;
+        font-size: 62px;
         fill: #FFFFFF;
         letter-spacing: 0.32em;
         text-anchor: middle;
@@ -74,8 +74,8 @@
   <!-- Top Micro Tag -->
   <text x="600" y="88" class="tagline">AI AGENT SYSTEMS &amp; ENTERPRISE FDE ARCHITECTURE</text>
 
-  <!-- Main Luxury Title -->
-  <text x="600" y="168" class="title">ALPHAFDE</text>
+  <!-- Main Luxury Title with Space -->
+  <text x="600" y="168" class="title">ALPHA FDE</text>
 
   <!-- Subtitle -->
   <text x="600" y="218" class="subtitle">FORWARD DEPLOYED ENGINEER · AI AGENT ARCHITECT</text>
