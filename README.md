@@ -35,7 +35,7 @@
 | :--- | :--- | :--- | :---: |
 | **AlphaFDE** | `主要项目`<br>`Flagship` | 解决企业大模型落地脱离业务场景的痛点，通过 FDE 驻场交付与 ANC 框架打通商业化智能体闭环。 | [![Official Site](https://img.shields.io/badge/Website-alphafde.cn-58A6FF?style=flat-square&logo=googlechrome&logoColor=white)](https://alphafde.cn) |
 | **OpenChatCut** | `参与开源项目`<br>`Contributor` | 解决传统视频剪辑时间线繁琐问题，参与核心开发探索 LLM + MCP + Remotion 结合，实现“对话即剪辑”的 AI 视频工作流。 | [![GitHub Stars](https://img.shields.io/badge/Open_Source-0xsline%2FOpenChatCut-181717?style=flat-square&logo=github)](https://github.com/0xsline/OpenChatCut) |
-| **Coze Workflows** | `生产级 Agent`<br>`Workflows` | 消除新媒体运营与电商业务中高频机械重复劳动，构建数据监控、爆款拆解与自动生成闭环。 | [![Coze Repo](https://img.shields.io/badge/Workflows-Coze__workFlow-5C5CFF?style=flat-square&logo=probot&logoColor=white)](https://github.com/Alphaxiaoteng/Coze_workFlow) |
+| **n8n & AI Workflows** | `生产级 Agent`<br>`Automation` | 消除新媒体运营与电商业务中高频机械重复劳动，搭建全自动数据监控、爆款拆解与多模态自动化闭环。 | [![Repo](https://img.shields.io/badge/Workflows-n8n__AI-EA4B71?style=flat-square&logo=n8n&logoColor=white)](https://github.com/Alphaxiaoteng) |
 
 </div>
 
@@ -48,9 +48,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python%203.11+-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude%203.7-D97706?style=flat-square&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Coze%20扣子-5C5CFF?style=flat-square&logo=probot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dify.AI-000000?style=flat-square&logo=target&logoColor=white"/>
   <img src="https://img.shields.io/badge/MCP%20Protocol-58A6FF?style=flat-square&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Remotion-0B84FF?style=flat-square&logo=react&logoColor=white"/>
