@@ -47,11 +47,17 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python%203.11+-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LLM_Wiki-4B32C3?style=flat-square&logo=gitbook&logoColor=white"/>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dify.AI-000000?style=flat-square&logo=target&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MCP%20Protocol-58A6FF?style=flat-square&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP_Protocol-58A6FF?style=flat-square&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Promptfoo-6366F1?style=flat-square&logo=target&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ComfyUI-FF4081?style=flat-square&logo=probot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Remotion-0B84FF?style=flat-square&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
