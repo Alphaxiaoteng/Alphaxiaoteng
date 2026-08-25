@@ -27,15 +27,14 @@
 
 ---
 
-### 🚀 Featured Projects & Open Source
+### 🚀 Open Source & Featured Projects
 
 <div align="center">
 
-| Project | Role / Scope | Overview | Links |
+| Project | Role / Scope | Overview | Repository |
 | :--- | :--- | :--- | :---: |
 | 🎬 **OpenChatCut** | `Core Contributor`<br>`AI Video Editor` | Local-first conversational AI video editing engine supporting MCP protocols, Remotion timeline rendering, and natural language rough-cut pipelines. | [![GitHub](https://img.shields.io/badge/GitHub-0xsline%2FOpenChatCut-181717?style=flat-square&logo=github)](https://github.com/0xsline/OpenChatCut) |
-| 📜 **Hermes Agent** | `Architect`<br>`AIGC Script Engine` | Self-evolving short-video copywriting architecture that performs deep viral content deconstruction, structured analysis, and automated script generation. | [![Demo](https://img.shields.io/badge/Demo-WorkShow-4ECDC4?style=flat-square&logo=visualstudiocode&logoColor=white)](https://github.com/Alphaxiaoteng/WorkShow) |
-| 📐 **AI Coding Rules** | `Creator`<br>`Developer Tools` | Production-grade AI-assisted coding conventions, system harness guides, and agent instruction engineering patterns for Cursor and Antigravity. | [![Rules](https://img.shields.io/badge/Rules-Matrix-9B5DE5?style=flat-square&logo=gitbook&logoColor=white)](https://github.com/Alphaxiaoteng) |
+| 📋 **Maintainer Brief** | `Author`<br>`DevTools / Workflow` | Evidence-first pull request decision briefs and verification harnesses for open-source maintainers. | [![GitHub](https://img.shields.io/badge/GitHub-Alphaxiaoteng%2Fmaintainer--brief-181717?style=flat-square&logo=github)](https://github.com/Alphaxiaoteng/maintainer-brief) |
 
 </div>
 
