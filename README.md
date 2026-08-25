@@ -43,24 +43,11 @@
 
 ---
 
-### 🧠 AI 核心技术栈 (AI & Python Tech Stack)
+### 🛠️ 核心技术栈 (Core Tech Stack)
 
 <div align="center">
 
-<!-- AI Core Ecosystem Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Python%203.11+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude%203.7-D97706?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Coze_%E6%89%A3%E5%AD%90-5C5CFF?style=for-the-badge&logo=probot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dify.AI-000000?style=for-the-badge&logo=target&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MCP_Protocol-58A6FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG_%26_VectorDB-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white"/>
-</p>
-
-<!-- Focused Core Developer Icons (No Docker / Minimal Frontend) -->
+<!-- Clean Focused Developer Skill Icons Grid -->
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,sqlite,redis,git,github,linux,vscode,ts" />
 </a>
